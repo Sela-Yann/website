@@ -20,9 +20,9 @@ const translations = {
     "about-p3":
       "My goal is to build products that provide pixel-perfect, performant experiences and make a positive impact on users' lives.",
     "projects-title": "Featured Projects",
-    "project1-title": "E-Commerce Platform",
+    "project1-title": "Flappy Bird",
     "project1-desc":
-      "A fully responsive online shopping platform with real-time inventory management and secure payment integration.",
+      "The game is a side-scroller where the player controls a bird, Faby, attempting to fly between columns of green pipes without hitting them.",
     "project2-title": "Task Management App",
     "project2-desc":
       "Collaborative project management tool with real-time updates, team collaboration features, and analytics dashboard.",
@@ -67,8 +67,8 @@ const translations = {
       "ខ្ញុំចូលចិត្តប្រែក្លាយបញ្ហាស្មុគស្មាញទៅជាការរចនាសាមញ្ញ ស្អាត និងចលនាភាព។ នៅពេលអ្នកសរសេរកូដ អ្នកនឹងរកឃើញខ្ញុំកំពុងស្វែងរកបច្ចេកវិទ្យាថ្មី ចូលរួមចំណែកដល់គម្រោងប្រភពបើកចំហ ឬចែករំលែកចំណេះដឹងរបស់ខ្ញុំតាមរយៈការបង្ហាញ និងការបង្រៀន។",
     "about-p3": "គោលដៅរបស់ខ្ញុំគឺបង្កើតគេហទំព័របែងែងមានប្រសិទ្ធភាព និងធ្វើឱ្យមានផលល្អដល់ជីវិតអ្នកប្រើប្រាស់។",
     "projects-title": "គម្រោងពិសេស",
-    "project1-title": "វេទិកាពាណិជ្ជកម្មអេឡិចត្រូនិក",
-    "project1-desc": "វេទិកាទិញទំនិញអនឡាញដែលឆ្លើយតបពេញលេញជាមួយការគ្រប់គ្រងពេលវេលាជាក់ស្តែង។",
+    "project1-title": "Flappy Bird",
+    "project1-desc": "The game is a side-scroller where the player controls a bird, Faby, attempting to fly between columns of green pipes without hitting them.",
     "project2-title": "កម្មវិធីគ្រប់គ្រងភារកិច្ច",
     "project2-desc": "ឧបករណ៍គ្រប់គ្រងគម្រោងសហការជាមួយការធ្វើបច្ចុប្បន្នភាពពេលវេលា និងផ្ទាំងព័ត៌មានវិភាគ។",
     "project3-title": "បណ្តាញសង្គម",
