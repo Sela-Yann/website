@@ -533,6 +533,22 @@ body.dark-mode .tag {
   color: #93c5fd;
 }
 
+.live-btn {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: #6366f1;
+    color: white;
+    text-decoration: none;
+    border-radius: 1rem;
+    font-size: 0.9rem;
+    transition: background 0.3s ease;
+}
+
+.live-btn:hover {
+    background: #4f46e5;
+}
+
+
 /* Added tag hover animation */
 .tag:hover {
   background-color: #3b82f6;
