@@ -14,7 +14,7 @@ const translations = {
     "hero-cta": "Get In Touch",
     "about-title": "About Me",
     "about-p1":
-      "Hello! I'm a passionate full-stack developer with over 2 years of experience in building web applications. I specialize in modern JavaScript frameworks and creating scalable solutions.",
+      "Hi, my name is Yann Maosela, and I’m 20 years old from Siem Reap. I’m currently living in Phnom Penh to continue my studies at the Royal University of Phnom Penh (RUPP), where I’m majoring in Computer Science. I’m a frontend developer with a good foundation in React.js, and I enjoy building clean, engaging, and user-friendly interfaces. Even though I don’t have work experience yet, I’m eager to learn, improve my skills, and start my professional journey.",
     "about-p2":
       "I love turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through blog posts and tutorials.",
     "about-p3":
