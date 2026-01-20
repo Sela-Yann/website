@@ -15,10 +15,6 @@ const translations = {
     "about-title": "About Me",
     "about-p1":
       "Hi, my name is Yann Maosela, and I’m 20 years old from Siem Reap. I’m currently living in Phnom Penh to continue my studies at the Royal University of Phnom Penh (RUPP), where I’m majoring in Computer Science. I’m a frontend developer with a good foundation in React.js, and I enjoy building clean, engaging, and user-friendly interfaces. Even though I don’t have work experience yet, I’m eager to learn, improve my skills, and start my professional journey.",
-    "about-p2":
-      "I love turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through blog posts and tutorials.",
-    "about-p3":
-      "My goal is to build products that provide pixel-perfect, performant experiences and make a positive impact on users' lives.",
     "projects-title": "Featured Projects",
     "project1-title": "Flappy Bird",
     "project1-desc":
@@ -62,10 +58,7 @@ const translations = {
     "hero-cta": "ទាក់ទងមកខ្ញុំ",
     "about-title": "អំពីខ្ញុំ",
     "about-p1":
-      "សួស្តី! ខ្ញុំជា Full Stack Developer ជាមួយបទពិសោធន៍ជាង ២ ឆ្នាំក្នុងការបង្កើតកម្មវិធីគេហទំព័រ។ ខ្ញុំឯកទេសក្នុង JavaScript និងការបង្កើតដំណោះស្រាយដែលអាចពង្រីកបាន។",
-    "about-p2":
-      "ខ្ញុំចូលចិត្តប្រែក្លាយបញ្ហាស្មុគស្មាញទៅជាការរចនាសាមញ្ញ ស្អាត និងចលនាភាព។ នៅពេលអ្នកសរសេរកូដ អ្នកនឹងរកឃើញខ្ញុំកំពុងស្វែងរកបច្ចេកវិទ្យាថ្មី ចូលរួមចំណែកដល់គម្រោងប្រភពបើកចំហ ឬចែករំលែកចំណេះដឹងរបស់ខ្ញុំតាមរយៈការបង្ហាញ និងការបង្រៀន។",
-    "about-p3": "គោលដៅរបស់ខ្ញុំគឺបង្កើតគេហទំព័រដែលមានប្រសិទ្ធភាព និងធ្វើឱ្យមានផលល្អដល់ជីវិតអ្នកប្រើប្រាស់។",
+      "សួស្តី ខ្ញុំឈ្មោះ យ៉ាន់ ម៉ៅសិលា អាយុ ២០ ឆ្នាំ មកពី ខេត្តសៀមរាប។ បច្ចុប្បន្ន ខ្ញុំកំពុងរស់នៅ រាជធានីភ្នំពេញ ដើម្បីបន្តការសិក្សា នៅ សាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ (RUPP) ជំនាញ វិទ្យាសាស្ត្រកុំព្យូទ័រ។ ខ្ញុំជា Frontend Developer ដែលមានមូលដ្ឋានល្អក្នុង React.js ហើយចូលចិត្តបង្កើត UI ដែលស្អាត ទាក់ទាញ និងងាយស្រួលប្រើប្រាស់។ ទោះបីជាខ្ញុំមិនទាន់មានបទពិសោធន៍ការងារផ្លូវការក៏ដោយ ខ្ញុំមានចិត្តស្រឡាញ់ការរៀនសូត្រ និងត្រៀមខ្លួនអភិវឌ្ឍជំនាញដើម្បីចាប់ផ្តើមអាជីពរបស់ខ្ញុំ។",
     "projects-title": "គម្រោងរបស់ខ្ញុំ",
     "project1-title": "Flappy Bird",
     "project1-desc": "The game is a side-scroller where the player controls a bird, Faby, attempting to fly between columns of green pipes without hitting them.",
